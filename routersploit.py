@@ -1,5 +1,6 @@
 from routersploit.modules.scanners import autopwn
-import sys, getopt
+import sys
+import sysgetopt
 def pwn(ip_target):
     atpwn = autopwn.Exploit()
     atpwn.target = ip_target
