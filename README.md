@@ -15,4 +15,4 @@ Optional:
 
 git clone https://github.com/LeHoangHY/Routersploit_script.git
 cd Routersploit_script
-sudo python3 -m pip install -r Requirements.txt
+sudo python3 -m pip install -r Requirement.txt
